@@ -1,6 +1,6 @@
 ### Hi there, I'm Miray 👋
 
-I'm a **Junior Frontend Developer** based in Turin/Italy. My goal is to have an industry-leading brands' level of experience with more projects and opportunities. <br/>
+I'm a **Junior Frontend Developer** based in Turin/Italy. My goal is to have an industry-leading brands' level of proficiency with more projects and opportunities. <br/>
 
 
 So, let's meet!
