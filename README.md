@@ -1,10 +1,10 @@
 ### Hi there, I'm Miray 👋
 
-I'm a **Junior Frontend Developer** based in Turin/Italy. I'm passionate about learning and working with new technologies.<br/>
+I'm a **Junior Frontend Developer** based in Turin/Italy. My goal is to have an industry-leading brands' level of experience with more projects and opportunities. <br/>
 
 
 So, let's meet!
-You can check out my projects and also you can find me on [Linkedin](https://www.linkedin.com/in/miray-buyukkaray/)
+You can check out my projects [(Portfolio website)](https://nostalgic-hoover-70cb75.netlify.app/) and also you can find me on [Linkedin](https://www.linkedin.com/in/miray-buyukkaray/)
 
 
 <!--
