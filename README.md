@@ -4,7 +4,7 @@ I'm a **Junior Frontend Developer** based in Turin/Italy. My goal is to have an 
 
 
 So, let's meet!
-You can check out my projects [(Portfolio website)](https://nostalgic-hoover-70cb75.netlify.app/) and also you can find me on [Linkedin](https://www.linkedin.com/in/miray-buyukkaray/)
+You can check out my projects [(Repositories)](https://github.com/miraybuy?tab=repositories) and also you can find me on [Linkedin](https://www.linkedin.com/in/miray-buyukkaray/)
 
 
 <!--
