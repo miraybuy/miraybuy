@@ -1,7 +1,7 @@
 ### Hi there, I'm Miray 👋
 
-I'm a **Junior Frontend Developer** based in Turin/Italy. My goal is to have an industry-leading brands' level of proficiency with more projects and opportunities. <br/>
-
+I am a **junior programmer** with a foundation in web development and a growing interest in data analysis. With a background in psychology, I aspire to bring a perspective, aiming to achieve an industry-leading level of proficiency through engaging in more projects and opportunities.
+<br/>
 
 So, let's meet!
 You can check out my projects [(Repositories)](https://github.com/miraybuy?tab=repositories) and also you can find me on [Linkedin](https://www.linkedin.com/in/miray-buyukkaray/)
