@@ -1,7 +1,7 @@
 ### Hi there, I'm Miray 👋
 
 
-I am a junior programmer with a diverse background in psychology, business analytics, and web development. Skilled in frontend development, API integration, and data analysis, I possess expertise in React.js, Python, and data visualization tools. I aspire to bring a unique perspective, aiming to achieve an industry-leading level of competency through opportunities to apply analytical skills and technical proficiency in roles spanning frontend development, fullstack development, data analysis, or business analysis.
+I am a **junior programmer** with a diverse background in psychology, business analytics, and web development. Skilled in frontend development, API integration, and data analysis, I possess expertise in React.js, Python, and data visualization tools. I aspire to bring a unique perspective, aiming to achieve an industry-leading level of competency through opportunities to apply analytical skills and technical proficiency in roles spanning frontend development, fullstack development, data analysis, or business analysis.
 <br/>
 
 So, let's meet!
